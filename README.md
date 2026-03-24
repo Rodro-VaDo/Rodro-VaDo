@@ -13,31 +13,22 @@
 
 </div>
 
-I am a **Data Analyst and senior Monitoring, Evaluation, and Learning (MEL) professional** with experience across **international NGOs, humanitarian response, post-conflict programs, and international cooperation**.
+I am a **Data Analyst with senior experience in Monitoring, Evaluation, and Learning (MEL)** across **international NGOs, humanitarian response, post-conflict programs, and international cooperation**.
 
-My work focuses on turning **program and operational data into insights for decision-making, accountability, and learning**. I bring a strong background in **data analysis, dashboarding, information management, data quality, and performance tracking**, especially in social impact contexts.
-
-I have contributed to initiatives linked to **USAID, UNHCR, and international NGO operations**, supporting teams through evidence generation, reporting, MEL system strengthening, and business intelligence tools.
+My work focuses on turning **program and operational data into insights for decision-making, accountability, and learning**. I bring strong experience in **dashboarding, data quality, information management, reporting, and performance tracking**, especially in social impact contexts. I have contributed to initiatives linked to **USAID, UNHCR, and international NGO operations**. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
 
 ## What I Do
-- Analyze quantitative and qualitative data for decision-making
+- Analyze data for decision-making and program improvement
 - Build dashboards and improve KPI visibility
 - Strengthen MEL systems and reporting processes
 - Improve data quality and information management
-- Support learning, accountability, and program performance
-
-## Tech Stack
-- **Excel** — Advanced
-- **Power BI** — Advanced
-- **SQL** — Intermediate
-- **Python** — Intermediate
-- **ODK, Atlas.ti, Gephi**
+- Support learning, accountability, and evidence-based strategy
 
 ## Experience Snapshot
 - **National Monitoring and Evaluation Advisor** at **Aldeas Infantiles SOS Colombia**
 - Former **Monitoring, Evaluation, and Learning Officer** at **USAID/OTI – MSI**
 - Experience in **humanitarian, development, and post-conflict settings**
-- Strong background in **donor reporting, dashboards, data quality, and evidence-based strategy**
+- Strong background in **donor reporting, dashboards, and evidence use** :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
 
 ## Focus Areas
 `Data Analysis` `Business Intelligence` `Monitoring & Evaluation` `Information Management` `Social Impact` `International Development`
