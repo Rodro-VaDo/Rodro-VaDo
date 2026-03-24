@@ -1,57 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-# Rodrigo Vallejo Domínguez
+# Hi, I'm Rodrigo Vallejo Domínguez
 
-**Data Analyst with senior experience in MEL, international NGOs, and cooperation programs**
+### Data Analyst | Senior MEL Professional | NGOs, Humanitarian Action & International Cooperation
 
-I am a data-driven professional with extensive experience in **Monitoring, Evaluation, and Learning (MEL)**, working across **humanitarian, development, and post-conflict contexts** in Colombia.
+<p>
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+  <img src="https://img.shields.io/badge/SQL-Intermediate-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-My profile combines:
-- Senior experience in **program monitoring, evaluation, and learning**
-- Strong practice in **data analysis, dashboarding, and information management**
-- Deep understanding of **NGO operations, donor reporting, and evidence-based decision-making**
+</div>
 
-I have supported programs linked to **USAID**, **UNHCR**, and international NGO operations, helping teams turn data into insights, accountability, and better strategic decisions.
+I am a **Data Analyst and senior Monitoring, Evaluation, and Learning (MEL) professional** with experience across **international NGOs, humanitarian response, post-conflict programs, and international cooperation**.
 
-## Core strengths
-- Data analysis for program performance
-- Power BI dashboard development
-- Advanced Excel for analysis and reporting
-- MEL systems strengthening
-- KPI and indicator design
-- Data quality assurance
-- Quantitative + qualitative analysis
-- Reporting for technical and donor audiences
+My work focuses on turning **program and operational data into insights for decision-making, accountability, and learning**. I bring a strong background in **data analysis, dashboarding, information management, data quality, and performance tracking**, especially in social impact contexts.
 
-## Tools
-- **Advanced:** Excel, Power BI
-- **Intermediate:** Python, SQL
-- **Other:** ODK, Atlas.ti, Gephi
+I have contributed to initiatives linked to **USAID, UNHCR, and international NGO operations**, supporting teams through evidence generation, reporting, MEL system strengthening, and business intelligence tools.
 
-## Professional focus
-I am particularly interested in roles that combine:
-- **Data analysis**
-- **Business intelligence**
-- **MEL / MEAL**
-- **Information management**
-- **Social impact and international development**
+## What I Do
+- Analyze quantitative and qualitative data for decision-making
+- Build dashboards and improve KPI visibility
+- Strengthen MEL systems and reporting processes
+- Improve data quality and information management
+- Support learning, accountability, and program performance
 
-## Current role
-**Monitoring and Evaluation National Coordinator**  
-*Aldeas Infantiles SOS Colombia / SOS Childrens Village*
+## Tech Stack
+- **Excel** — Advanced
+- **Power BI** — Advanced
+- **SQL** — Intermediate
+- **Python** — Intermediate
+- **ODK, Atlas.ti, Gephi**
 
-Leading monitoring and evaluation processes, improving indicator visibility, strengthening database design, and building dashboards for participants, services, and key organizational metrics.
+## Experience Snapshot
+- **National Monitoring and Evaluation Advisor** at **Aldeas Infantiles SOS Colombia**
+- Former **Monitoring, Evaluation, and Learning Officer** at **USAID/OTI – MSI**
+- Experience in **humanitarian, development, and post-conflict settings**
+- Strong background in **donor reporting, dashboards, data quality, and evidence-based strategy**
 
-## Previous experience
-**Monitoring, Evaluation, and Learning Officer / Specialist**  
-*USAID/OTI - MSI, Colombia Transforma*
-
-Led monitoring, evaluation, reporting, and learning processes for a broad portfolio of projects in post-conflict and humanitarian contexts.
+## Focus Areas
+`Data Analysis` `Business Intelligence` `Monitoring & Evaluation` `Information Management` `Social Impact` `International Development`
 
 ## Languages
-- Spanish (Native)
-- English (B2/C1)
+- **Spanish** — Native
+- **English** — C1
 
 ## Contact
-- Email: rovado02@hotmail.com
-- LinkedIn: www.linkedin.com/in/rodrigo-vallejo-domínguez-09a583141
+- **Email:** rovado02@hotmail.com
+- **LinkedIn:** www.linkedin.com/in/rodrigo-vallejo-domínguez-09a583141
