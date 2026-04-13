@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Vallejo Domínguez
 
-### Data Analyst | Senior MEL Professional | NGOs, Humanitarian Action & International Cooperation
+### Analytics Engineer in training | Senior MEL Professional | NGOs, Humanitarian Action & International Cooperation
 
 <p>
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-I am a **Data Analyst** with a senior background in **Monitoring, Evaluation, and Learning (MEL)** across NGOs, humanitarian response, post-conflict programs, and international cooperation.
+I am a **Analytics Engineer in training** with a senior background in **Monitoring, Evaluation, and Learning (MEL)** across NGOs, humanitarian response, post-conflict programs, and international cooperation.
 
 I specialize in turning program and operational data into insights for **decision-making, accountability, and learning**. My experience includes **dashboarding, data quality, reporting, information management, and performance tracking** in social impact contexts.
 
