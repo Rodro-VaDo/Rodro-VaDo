@@ -11,7 +11,7 @@
 
 I am a **Analytics Engineer in training** with a senior background in **Monitoring, Evaluation, and Learning (MEL)** across NGOs, humanitarian response, post-conflict programs, and international cooperation.
 
-I specialize in turning program and operational data into insights for **decision-making, accountability, and learning**. My experience includes **dashboarding, data quality, reporting, information management, and performance tracking** in social impact contexts.
+I specialize in turning program and operational data into insights for **decision-making, accountability, and learning**. My experience includes **objetives and indicators design, dashboarding, data quality, reporting, information management, and performance tracking** in social impact contexts.
 
 ## What I Do
 - Analyze data to support decisions and improve programs
