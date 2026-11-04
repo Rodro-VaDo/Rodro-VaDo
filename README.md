@@ -15,13 +15,15 @@ I specialize in turning program and operational data into insights for **decisio
 
 ## What I Do
 - Analyze data to support decisions and improve programs
+- Design objetives and indicators according to program or project goals
 - Build dashboards and improve KPI visibility
 - Strengthen MEL systems and reporting processes
 - Improve data quality and information management
 
 ## Experience Snapshot
-- **National Monitoring and Evaluation Advisor** at **Aldeas Infantiles SOS Colombia**
-- Former **Monitoring, Evaluation, and Learning Officer** at **USAID/OTI – MSI**
+- **Monitoring and Evaluation National Coordinator** at **Aldeas Infantiles SOS Colombia**
+- Former **Monitoring, Evaluation, and Learning Officer** at **USAID/OTI – MSI Colombia Transforma Program**
+- Former **UNHCR consultant**
 - Experience across **humanitarian, development, and post-conflict settings**
 
 ## Focus Areas
